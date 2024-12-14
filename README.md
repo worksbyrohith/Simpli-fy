@@ -1,4 +1,10 @@
-<!-- TABLE OF CONTENTS -->
+<p align="center">
+  <img src="" width="800" height="700">
+</p>
+
+<div align="center">
+  <h1 align="center">Simpli-fy:Bridging the language gap for medication adherence</h1>
+</div><!-- TABLE OF CONTENTS -->
 <details>
   <summary>🗂️ Table of Contents</summary>
   <ol>
