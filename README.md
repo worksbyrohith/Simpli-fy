@@ -1,15 +1,15 @@
 <p align="center">
-  <img src="" width="800" height="700">
+  <img src="https://github.com/worksbyrohith/Simpli-fy/blob/main/images/simplify%20logo.png">
 </p>
 
 <div align="center">
-  <h1 align="center">Simpli-fy:Bridging the language gap for medication adherence</h1>
+  <h1 align="center">Simpli-fy: Bridging the language gap for medication adherence</h1>
 </div><!-- TABLE OF CONTENTS -->
 <details>
   <summary>🗂️ Table of Contents</summary>
   <ol>
     <li>
-      <a href="#about-the-project">🐚 About Comic-ify</a>
+      <a href="#about-the-project">🐚 About Simpli-fy</a>
       <ul>
         <li><a href="#features">⭐️ Features</a></li>
         <li><a href="#vision">🔮 Vision</a></li>
@@ -21,7 +21,6 @@
     <li><a href="#outputs">🛸 Outputs</a></li>
     <li><a href="#project-status">🚧 Project Status</a></li>
     <li><a href="#built-with">🛠️ Tech Stack</a></li>
-    <li><a href="#community">🤖 Meet us!</a></li>
     
   </ol>
 </details>
