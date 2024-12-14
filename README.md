@@ -69,10 +69,6 @@ Simpli-Fy's vision is to become the leading solution for improving medication ad
   <img src="https://github.com/worksbyrohith/Simpli-fy/blob/main/images/WORKFLOW%20REAL.png">
 </p>
 
-**✨ Dataset: We have pushed our data and model to HuggingFace, however it is currently made private.**
-
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=1xngEIozVgw)
-
  ## **Check Out Our Video**
 
 **Explore our demo video on YouTube**
@@ -80,11 +76,11 @@ Simpli-Fy's vision is to become the leading solution for improving medication ad
 <div align="center">
   <p align="center"><strong>YouTube Demo</strong></p>
   <p align="center">
-    <a href="https://www.youtube.com/watch?v=1xngEIozVgw">
+    <a href="https://youtu.be/XTmj3nKz-lM">
       <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzNzYW9ic21ybW0yeXJka2xvdjVkNGt1czc5aHBsMWE2b2UzYWxvdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13Nc3xlO1kGg3S/giphy.gif" alt="YouTube GIF" width="150">
     </a>
     <br>
-    <a href="https://www.youtube.com/watch?v=1xngEIozVgw">Click Here!</a>
+    <a href="https://youtu.be/XTmj3nKz-lM">Click Here!</a>
   </p>
 </div>
 
