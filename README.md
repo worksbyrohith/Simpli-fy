@@ -66,7 +66,7 @@ Simpli-Fy's vision is to become the leading solution for improving medication ad
 ## 🌈 Workflow Diagram
 
 <p align="center">
-  <img src="https://github.com/SrikarVamsi/dump/blob/main/Comicify-PPT.png?raw=true" alt="workflow">
+  <img src="https://github.com/worksbyrohith/Simpli-fy/blob/main/images/WORKFLOW%20REAL.png">
 </p>
 
 **✨ Dataset: We have pushed our data and model to HuggingFace, however it is currently made private.**
@@ -93,41 +93,23 @@ Simpli-Fy's vision is to become the leading solution for improving medication ad
 The primary outputs of the Simpli-Fy project include the mobile application itself, which is designed to run on both iOS and Android platforms. Additionally, the project involves the development of the backend infrastructure, including the server-side components, APIs, and database systems to support the app's functionality. The team has also created various design assets, such as the app's branding, illustrations, and user interface elements, to ensure a cohesive and user-friendly experience. Ongoing outputs will include regular updates, bug fixes, and feature enhancements based on user feedback and market demands.
   
 #### UI Design
-<p align="center">
-  <img src="https://github.com/S0L009/COMIC-IFY_OneAPI/blob/main/images/comicfy_main.jpg" alt="UI_main_page">
-</p>
-
-<p align="center">
-  <img src="https://github.com/S0L009/COMIC-IFY_OneAPI/blob/ccfab1a3f83c21441113f949e229a115f12ba8d7/images/2480%20x%203508%20(3).png" alt="UI_main_page">
-</p>
-
-<p align="center">
-  <img src="https://github.com/S0L009/COMIC-IFY_OneAPI/blob/ccfab1a3f83c21441113f949e229a115f12ba8d7/images/2480%20x%203508%20(4).png" alt="UI_main_page">
-</p>
-
-<p align="center">
-  <img src="https://github.com/S0L009/COMIC-IFY_OneAPI/blob/ccfab1a3f83c21441113f949e229a115f12ba8d7/images/final_image.jpg" alt="UI_main_page">
-</p>
-
-#### Get your feet wet 
-<p align="center">
-  <img src="https://github.com/SrikarVamsi/dump/blob/main/poki%20poki.jpg" alt="Get_your_feet_wet">
-  
-</p>
-
-#### Deep Dive
-<p align="center">
-  <img src="https://github.com/S0L009/COMIC-IFY_OneAPI/blob/1c744ae2044801531a74a7721d4ddca3203a0e14/images/newton.jpg" alt="Avengers">
-</p>
-
-## Splash and Submerge 
-<p align="center">
-  <img src="https://github.com/S0L009/COMIC-IFY_OneAPI/blob/385a57071362a5a5f5db5ed7fb82612d5f96ff89/images/2480%20x%203508%20(5).png" alt="Splash">
-</p>
-
-
-
-
+<table border="0">
+  <tr>
+    <td><img src="https://github.com/worksbyrohith/Simpli-fy/blob/main/images/2.png" height="700"></td>
+    <td><img src="https://github.com/worksbyrohith/Simpli-fy/blob/main/images/1.png" height="700"></td>
+    <td><img src="https://github.com/worksbyrohith/Simpli-fy/blob/main/images/3.png" height="700"></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/worksbyrohith/Simpli-fy/blob/main/images/4.png" height="700"></td>
+    <td><img src="https://github.com/worksbyrohith/Simpli-fy/blob/main/images/5.png" height="700"></td>
+    <td><img src="https://github.com/worksbyrohith/Simpli-fy/blob/main/images/6.png" height="700"></td>
+  </tr>
+  <tr>
+    <td colspan="3" align="center">
+      <img src="https://github.com/worksbyrohith/Simpli-fy/blob/main/images/7.jpeg" width="310" height="700">
+    </td>
+  </tr>
+</table>
 
 ## 🚧 Project Status
 Simpli-Fy is currently in the late stages of development, with the core functionality and primary features already implemented. The team has completed extensive user testing and has incorporated feedback to refine the app's design and usability. The backend systems are operational, and the app is undergoing final integration and optimization before the initial launch. The project is on track to release the first version of Simpli-Fy to the Indian market within the next few months, with plans for continuous improvement and expansion of the app's capabilities in the future. 
